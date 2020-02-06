@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6e7b38f-a981-48cf-a2cf-b66e68c7afaf" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/personajes/Personaje.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="253">
+              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Respuestas.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="552">
+              <caret line="24" column="19" lean-forward="true" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/personajes/Goku.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="138">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/personajes/Freezer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="111">
+              <caret line="8" column="60" lean-forward="true" selection-start-line="8" selection-start-column="60" selection-end-line="8" selection-end-column="60" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/niveles/Nivel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="92">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/etapas/Etapa.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/etapas/EtapaDos.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/personajes/Atacable.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/personajes/Atacante.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/niveles/NivelSaiyajin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>Freezer</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Goku</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/CONSIGNAS.txt" />
+        <option value="$PROJECT_DIR$/src/Danio.java" />
+        <option value="$PROJECT_DIR$/src/PERSONAJE.java" />
+        <option value="$PROJECT_DIR$/src/Atacante.java" />
+        <option value="$PROJECT_DIR$/src/EtapaDos.java" />
+        <option value="$PROJECT_DIR$/src/EtapaUno.java" />
+        <option value="$PROJECT_DIR$/src/Atacable.java" />
+        <option value="$PROJECT_DIR$/src/Etapa.java" />
+        <option value="$PROJECT_DIR$/src/Nivel.java" />
+        <option value="$PROJECT_DIR$/src/NivelSaiyajin.java" />
+        <option value="$PROJECT_DIR$/src/NivelSuperSaiyajin.java" />
+        <option value="$PROJECT_DIR$/src/Freezer.java" />
+        <option value="$PROJECT_DIR$/src/Goku.java" />
+        <option value="$PROJECT_DIR$/src/Personaje.java" />
+        <option value="$PROJECT_DIR$/test/SuperTest.java" />
+        <option value="$PROJECT_DIR$/src/personajes/Freezer.java" />
+        <option value="$PROJECT_DIR$/src/personajes/Goku.java" />
+        <option value="$PROJECT_DIR$/test/FreezerTest.java" />
+        <option value="$PROJECT_DIR$/test/GokuTest.java" />
+        <option value="$PROJECT_DIR$/Respuestas.txt" />
+        <option value="$PROJECT_DIR$/test/personajes/FreezerTest.java" />
+        <option value="$PROJECT_DIR$/test/personajes/GokuTest.java" />
+        <option value="$PROJECT_DIR$/src/personajes/Personaje.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="25" />
+    <option name="width" value="1390" />
+    <option name="height" value="966" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="02-03-17-alumno" type="b2602c69:ProjectViewProjectNode" />
+              <item name="02-03-17-alumno" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="02-03-17-alumno" type="b2602c69:ProjectViewProjectNode" />
+              <item name="02-03-17-alumno" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="02-03-17-alumno" type="b2602c69:ProjectViewProjectNode" />
+              <item name="02-03-17-alumno" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="etapas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="02-03-17-alumno" type="b2602c69:ProjectViewProjectNode" />
+              <item name="02-03-17-alumno" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="niveles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="02-03-17-alumno" type="b2602c69:ProjectViewProjectNode" />
+              <item name="02-03-17-alumno" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="personajes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="02-03-17-alumno" type="b2602c69:ProjectViewProjectNode" />
+              <item name="02-03-17-alumno" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="02-03-17-alumno" type="b2602c69:ProjectViewProjectNode" />
+              <item name="02-03-17-alumno" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="personajes" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../23_02_2017_final/23-02-17-alumno" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Background" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="personajes" />
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.All in 02-03-17-alumno">
+    <configuration name="All in 02-03-17-alumno" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="02-03-17-alumno" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FreezerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="02-03-17-alumno" />
+      <option name="PACKAGE_NAME" value="personajes" />
+      <option name="MAIN_CLASS_NAME" value="personajes.FreezerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FreezerTest.test08FreezerRecibe30DeDanioDeDosAtacantes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="02-03-17-alumno" />
+      <option name="PACKAGE_NAME" value="personajes" />
+      <option name="MAIN_CLASS_NAME" value="personajes.FreezerTest" />
+      <option name="METHOD_NAME" value="test08FreezerRecibe30DeDanioDeDosAtacantes" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GokuTest.test08GokuRecibe20DeDanioDeDosAtacantes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="02-03-17-alumno" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="personajes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="personajes" />
+      <option name="MAIN_CLASS_NAME" value="personajes.GokuTest" />
+      <option name="METHOD_NAME" value="test08GokuRecibe20DeDanioDeDosAtacantes" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="personajes in 02-03-17-alumno" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="02-03-17-alumno" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="personajes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="personajes" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in 02-03-17-alumno" />
+        <item itemvalue="JUnit.personajes in 02-03-17-alumno" />
+        <item itemvalue="JUnit.GokuTest.test08GokuRecibe20DeDanioDeDosAtacantes" />
+        <item itemvalue="JUnit.FreezerTest.test08FreezerRecibe30DeDanioDeDosAtacantes" />
+        <item itemvalue="JUnit.FreezerTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="1" Folder0="$USER_HOME$/IdeaProjects" CustomDictionaries="1" CustomDictionary0="$USER_HOME$/IdeaProjects/spanish.dic" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="project-level" UseSingleDictionary="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6e7b38f-a981-48cf-a2cf-b66e68c7afaf" name="Default Changelist" comment="" />
+      <created>1548106955966</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548106955966</updated>
+      <workItem from="1548106958347" duration="10346000" />
+      <workItem from="1548119673379" duration="16000" />
+      <workItem from="1548120444793" duration="76000" />
+      <workItem from="1548705488688" duration="94000" />
+      <workItem from="1549500725127" duration="420000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="FreezerTest_test07FreezerNoRecibeDanioDeDanioDeFreezer - 2019.01.21 at 21h 44m 12s.xml">
+      <configuration name="FreezerTest.test07FreezerNoRecibeDanioDeDanioDeFreezer" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FreezerTest_test08FreezerRecibe30DeDanioDeDosAtacantes - 2019.01.21 at 21h 46m 32s.xml">
+      <configuration name="FreezerTest.test08FreezerRecibe30DeDanioDeDosAtacantes" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FreezerTest_test09FreezerEsAtacadoHastaEvolucionarAEtapaDosYAtacaAGokuYLeQuita20DeVida - 2019.01.21 at 21h 54m 11s.xml">
+      <configuration name="FreezerTest.test09FreezerEsAtacadoHastaEvolucionarAEtapaDosYAtacaAGokuYLeQuita20DeVida" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GokuTest - 2019.01.21 at 21h 58m 00s.xml">
+      <configuration name="GokuTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FreezerTest - 2019.01.21 at 21h 58m 04s.xml">
+      <configuration name="FreezerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_02-03-17-alumno - 2019.01.21 at 22h 00m 01s.xml">
+      <configuration name="All in 02-03-17-alumno" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FreezerTest_test08FreezerRecibe30DeDanioDeDosAtacantes - 2019.01.21 at 22h 01m 33s.xml">
+      <configuration name="FreezerTest.test08FreezerRecibe30DeDanioDeDosAtacantes" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="GokuTest_test08GokuRecibe20DeDanioDeDosAtacantes - 2019.01.21 at 22h 01m 49s.xml">
+      <configuration name="GokuTest.test08GokuRecibe20DeDanioDeDosAtacantes" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="personajes_in_02-03-17-alumno - 2019.01.21 at 22h 01m 53s.xml">
+      <configuration name="personajes in 02-03-17-alumno" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_02-03-17-alumno - 2019.01.21 at 22h 04m 00s.xml">
+      <configuration name="All in 02-03-17-alumno" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10952000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1048" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26040554" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32894737" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23355263" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Inspection Results" order="10" weight="0.32894737" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="13" weight="0.32894737" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <confirmMoveToFailedCommit value="0" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/EtapaSaiyajin.java" />
+    <entry file="file://$PROJECT_DIR$/src/etapas.java" />
+    <entry file="file://$PROJECT_DIR$/src/Danio.java" />
+    <entry file="file://$PROJECT_DIR$/test/SuperTest.java" />
+    <entry file="file://$PROJECT_DIR$/test/personajes/FreezerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="101" column="9" lean-forward="true" selection-start-line="101" selection-start-column="9" selection-end-line="101" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/personajes/GokuTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1577">
+          <caret line="93" column="31" lean-forward="true" selection-start-line="93" selection-start-column="31" selection-end-line="93" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/niveles/NivelSuperSaiyajin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/etapas/EtapaUno.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CONSIGNAS.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="483">
+          <caret line="21" column="29" selection-start-line="21" selection-start-column="29" selection-end-line="21" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Respuestas.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="24" column="19" lean-forward="true" selection-start-line="24" selection-start-column="19" selection-end-line="24" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/etapas/Etapa.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/niveles/NivelSaiyajin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/personajes/Personaje.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/etapas/EtapaDos.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/niveles/Nivel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/personajes/Atacable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/personajes/Atacante.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/personajes/Freezer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="8" column="60" lean-forward="true" selection-start-line="8" selection-start-column="60" selection-end-line="8" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/personajes/Goku.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
